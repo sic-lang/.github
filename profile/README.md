@@ -1,8 +1,8 @@
-# Sic
+# The Sic Programming Language
 
-Sic is a programming language that helps find errors at compile time.
+Well typed and well used: types tell what a program computes, and usage how it uses its resources.
 
 ## Projects
 
 - [`rfcs`](https://github.com/sic-lang/rfcs): RFCs for the Sic programming language.
-- [`sic`](https://github.com/sic-lang/sic): The Sic programming language: its metatheory and its compilers.
+- [`sic`](https://github.com/sic-lang/sic): Metatheory and compilers for the Sic programming language.

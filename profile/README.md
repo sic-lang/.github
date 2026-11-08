@@ -1,6 +1,6 @@
 # The Sic Programming Language
 
-Well typed and well used: types tell what a program computes, and usage how it uses its resources.
+Well typed, well used and well owned: types tell what a program computes, usage how it will use its resources, and ownership how they have been shared.
 
 ## Projects
 
